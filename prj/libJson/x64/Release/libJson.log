@@ -1,0 +1,7 @@
+﻿  json_reader.cpp
+  json_value.cpp
+..\..\src\json_value.cpp(128): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+  json_writer.cpp
+..\..\src\json_writer.cpp(357): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+..\..\src\json_writer.cpp(917): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+  libJson.vcxproj -> G:\代码\公司项目代码\LOL\gd\common\jsoncpp\prj\x64\Release\libJson.lib
